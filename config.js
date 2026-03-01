@@ -64,7 +64,7 @@ const config = {
         // ⚠️ IMPORTANTE: Fecha de inicio de tu relación (YYYY-MM-DD)
         // El contador calculará automáticamente el tiempo transcurrido
         // Ejemplo: "2024-09-13" para el 13 de septiembre de 2024
-        startDate: "2025-02-25",
+        startDate: "2025-03-01",
 
         // Texto que aparece después del contador
         finalText: "¡Y seguimos escribiendo nuestra historia juntos!",
