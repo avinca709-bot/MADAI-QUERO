@@ -160,7 +160,7 @@ const config = {
             { url: "assets/Imagen5.JPG", caption: "Esa sonrisa que me derrite cada vez que la veo 😊" },
             { url: "assets/Imagen6.JPG", caption: "Mi cara de enamorado, por hambre de un chocolatito como tú 🍫" },
             { url: "assets/Imagen7.JPG", caption: "Besame mi amor, que tengo hambre de tu boca 😘" },
-            { url: "assets/Imagen8.JPG", caption: "Una foto antigua, pero guapísima como siempre 😍" },
+            { url: "assets/Imagen8.JPG", caption: "Dios si fuera flaco y musculoso, pero sali winny poo😅" },
             { url: "assets/Imagen9.JPG", caption: "Mi modelo y actriz favorita, aunque no lo sepa me vuelves loco 😎" },
             { url: "assets/Imagen10.JPG", caption: "El dia que nos veamos asi te abrazare fuerte" },
             { url: "assets/Imagen11.JPG", caption: "Me pase de picaro con esta foto, pero es que me encanta como sales 😍" },
