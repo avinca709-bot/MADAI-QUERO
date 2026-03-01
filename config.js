@@ -31,10 +31,10 @@ const config = {
     music: {
         // Ruta de tu canción favorita (debe estar en la carpeta assets/)
         // Formatos soportados: .mp3, .wav, .ogg
-        path: "assets/musica.mp3", // 🔇 Déjalo vacío si no tienes música aún
+        path: "assets/cancion2.mp3", // 🔇 Déjalo vacío si no tienes música aún
 
         // Volumen de la música (0.0 = silencio, 1.0 = máximo)
-        volume: 0.3,
+        volume: 0.8,
 
         // ¿Reproducir automáticamente? (true = sí, false = no)
         autoPlay: true
