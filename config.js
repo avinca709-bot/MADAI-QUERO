@@ -34,7 +34,7 @@ const config = {
         path: "assets/cancion2.mp3", // 🔇 Déjalo vacío si no tienes música aún
 
         // Volumen de la música (0.0 = silencio, 1.0 = máximo)
-        volume: 0.8,
+        volume: 0.9,
 
         // ¿Reproducir automáticamente? (true = sí, false = no)
         autoPlay: true
